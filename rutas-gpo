@@ -1,0 +1,34 @@
+Administración de Directivas de Grupos (GPO)
+
+
+
+Ruta para modificar el Umbral de bloqueo (limitar intentos de inicio de sesión).
+
+Configuración de equipo
+  Directivas
+    Configuración de Windows
+      Configuración de Seguridad
+        Directiva de cuenta
+          Directiva de bloqueo de cuenta
+            Umbral de bloqueo de cuenta
+
+
+
+Ruta para modificar el Fondo de Pantalla (Papel Tapíz).
+
+Configuración de usuario
+  Directivas
+    Plantillas administrativas
+      Active Desktop
+        Active Desktop --> Tapíz del Escritorio
+
+
+
+Ruta para agregar un paquete de software a instalar.
+El programa debe estar en extensión .msi y especificar la ruta UNC.
+Dependiendo la necesidad se selecciona Configuración de equipo o de usuario.
+
+Configuración de usuario
+  Directivas
+    Configuración de software
+      Instalación de software
